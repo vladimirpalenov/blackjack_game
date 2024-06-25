@@ -1,4 +1,4 @@
 # Blackjack Game
 # Author: Vladimir Palenov
-# v.0.0.27
+# v.0.0.28
 #
